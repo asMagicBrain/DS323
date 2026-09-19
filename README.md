@@ -27,9 +27,10 @@ not announcements of a current teaching schedule.
 | 2023 Autumn | [View Course](https://x.ancorasir.com/ds323) | [2023-autumn](2023-autumn/README.md) |
 | 2022 Autumn | Public course-page link pending | [2022-autumn](2022-autumn/README.md) |
 
-Materials are organized in top-level `YYYY-season/` folders. PDFs and student
-demonstration videos retain their original filenames; supporting images include
-the university calendars. Open a file on GitHub to preview it when supported,
+Materials are organized in top-level `YYYY-season/` folders. PDFs retain their
+original filenames; supporting images include the university calendars. The
+2022 Autumn student demonstration videos are hosted in the GitBook course page,
+not duplicated in the current repository. Open a file on GitHub to preview it when supported,
 or use its download control to save a copy. This repository is public; browsing
 and downloading do not require a GitHub account. The folders contain the
 materials currently made available for each term, not necessarily every item

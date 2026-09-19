@@ -1,6 +1,6 @@
 # DS323 — AI in Design | 2022 Autumn
 
-Course materials for the historical 2022 Autumn offering, taught by Dr. Wan Fang. PDFs and student demonstration videos retain their original filenames and authorship. Supporting images include the university calendar and Reachy illustrations.
+Course materials for the historical 2022 Autumn offering, taught by Dr. Wan Fang. PDFs retain their original filenames and authorship. Supporting images include the university calendar and Reachy illustrations.
 
 These materials are publicly accessible; browsing and downloading do not require a GitHub account. Original authorship and third-party rights remain unchanged. No blanket license is granted for the course, student or third-party materials. See the [course overview, credits and enquiries](../README.md).
 
@@ -27,10 +27,9 @@ These materials are publicly accessible; browsing and downloading do not require
 
 ## Student Demonstration Videos
 
-- [DS323-2022Autumn-Day-08-Final-Presentation-Han-Yuanning-Vid1-Reachy-Curiosity.mp4](DS323-2022Autumn-Day-08-Final-Presentation-Han-Yuanning-Vid1-Reachy-Curiosity.mp4)
-- [DS323-2022Autumn-Day-08-Final-Presentation-Han-Yuanning-Vid2-Reachy-painting.mp4](DS323-2022Autumn-Day-08-Final-Presentation-Han-Yuanning-Vid2-Reachy-painting.mp4)
-- [DS323-2022Autumn-Day-08-Final-Presentation-Han-Yuanning-Vid3-Reachy-SayHello.mp4](DS323-2022Autumn-Day-08-Final-Presentation-Han-Yuanning-Vid3-Reachy-SayHello.mp4)
-- [DS323-2022Autumn-Day-08-Final-Presentation-Han-Yuanning-Vid4-URPainting.m4v](DS323-2022Autumn-Day-08-Final-Presentation-Han-Yuanning-Vid4-URPainting.m4v)
+Han Yuanning's four spotlight demonstration videos are hosted and playable in
+the GitBook 2022 Autumn course page. The duplicate video files are no longer
+included in the current repository. Original authorship and credits are retained.
 
 ## Supporting Images and University Calendar
 
