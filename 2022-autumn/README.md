@@ -2,7 +2,7 @@
 
 Course materials for the historical 2022 Autumn offering, taught by Dr. Wan Fang. PDFs and student demonstration videos retain their original filenames and authorship. Supporting images include the university calendar and Reachy illustrations.
 
-This repository is currently private; downloads require GitHub access. Original authorship and third-party rights remain unchanged. No blanket license is granted for the course, student or third-party materials.
+These materials are publicly accessible; browsing and downloading do not require a GitHub account. Original authorship and third-party rights remain unchanged. No blanket license is granted for the course, student or third-party materials. See the [course overview, credits and enquiries](../README.md).
 
 ## PDF Materials
 
