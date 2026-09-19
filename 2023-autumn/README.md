@@ -2,6 +2,8 @@
 
 Course files linked by the instructor’s reviewed 2023 Autumn page, retained under their original filenames. This folder belongs to the 2023 offering, including its January 2024 classes.
 
+[View the 2023 Autumn course page](https://x.ancorasir.com/ds323)
+
 These materials are publicly accessible; browsing and downloading do not require a GitHub account. Original authorship and third-party rights remain unchanged. See the [course overview, credits and enquiries](../README.md).
 
 ## PDF Materials

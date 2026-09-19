@@ -2,6 +2,8 @@
 
 Course materials for the historical 2022 Autumn offering, taught by Dr. Wan Fang. PDFs retain their original filenames and authorship. Supporting images include the university calendar and Reachy illustrations.
 
+[View the 2022 Autumn course page](https://x.ancorasir.com/ds323/2022-autumn)
+
 These materials are publicly accessible; browsing and downloading do not require a GitHub account. Original authorship and third-party rights remain unchanged. No blanket license is granted for the course, student or third-party materials. See the [course overview, credits and enquiries](../README.md).
 
 ## PDF Materials
@@ -27,9 +29,11 @@ These materials are publicly accessible; browsing and downloading do not require
 
 ## Student Demonstration Videos
 
-Han Yuanning's four spotlight demonstration videos are hosted and playable in
-the GitBook 2022 Autumn course page. The duplicate video files are no longer
-included in the current repository. Original authorship and credits are retained.
+Han Yuanning's four spotlight demonstration videos are hosted in GitBook and
+playable in a two-row, two-column grid in the
+[final presentation section](https://x.ancorasir.com/ds323/2022-autumn#day-08-thu-nov-03-final-presentation-and-review).
+The duplicate video files are no longer included in the current repository.
+Original authorship and credits are retained.
 
 ## Supporting Images and University Calendar
 
@@ -41,4 +45,7 @@ included in the current repository. Original authorship and credits are retained
 
 ## Source Availability
 
-The historical external Reachy modularity video was unavailable during migration and is not included. Its existing reference is retained in the course pending an instructor decision. The course’s educational-use notice for Reachy media and original credits remain applicable; enquiries should be directed to the course instructor.
+The historical external Reachy modularity video was unavailable during migration
+and is not included. Its unavailable link has been removed from the student-facing
+course page. The course's educational-use notice for Reachy media and original
+credits remain applicable; enquiries should be directed to the course instructor.
